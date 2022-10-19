@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://github.com/Dorcastunmise/qrcode-generator.git">
-    <img width="200" src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci8xODRhYjI2YmI1YWY5NWI0NDUwZDU5ZTkxMDJmZmU4Nj9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.jflG92OORasQnbyRID5jAj1Znw_6XUZvxBU90BIujI8">
+  <a href="https://qrcode-generator-seven.vercel.app/">
+    <img width="200" src="./images/qr-code.png"/>  
   </a>
 </p>
 
 <h1 align="center">QR Code Generator</h1>
 
-## 📚 The Storybook 
+# The QR CODE GENERATOR
 
   ![s2](./images/qr-code.png)
 
@@ -28,12 +28,12 @@ Make sure you have Node.js and npm installed.
   2.  Run:
   <pre> cd qrcode </pre>
   <pre> browser-sync start --server --directory files "**/*" </pre>
-  Application runs from localhost [Browsersync] Access URLs:
+  <pre>Application runs from localhost [Browsersync] Access URLs:
  ----------------------------
  Local: http://localhost:3000
  ----------------------------
     UI: http://localhost:3001
- ----------------------------
+ ----------------------------</pre>
 
   3. Copy and paste content of code file and folders into the project folder
 
