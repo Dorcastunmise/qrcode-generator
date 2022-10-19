@@ -19,7 +19,7 @@ Before you begin, ensure you have met the following requirements:
 
 Make sure you have Node.js and npm installed.
 
-  1. Project should be titled qrcode.
+  1. Project should be titled QRCODE.
 
   2.  Run:
   <pre> cd qrcode </pre>
