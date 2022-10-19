@@ -6,10 +6,6 @@
 
 <h1 align="center">QR Code Generator</h1>
 
-# The QR CODE GENERATOR
-
-  ![s2](./images/qr-code.png)
-
 ## ✨ Features
 
 -   📦 Editable QR Code creation..
