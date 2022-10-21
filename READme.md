@@ -46,19 +46,19 @@ Clone or Download the repository using:
 
 
 ## Let's Contribute 👍
-Step 1 - Fork this repository.
-Step 2 - Clone the repository to your local machine.
-Step 3 - Resolve the bugs, mentions provided in the Issues section of the repository. Also add a description of what changes you have done.
-Step 4 - Add the changes to your repository.
-Step 5 - Create a PULL Request. And that's all.
-NOTE - Please start the filename with the platform name on which the problem was solved. For example, if you are submitting JavaScript file syntax problem from qrcode then mention filename as (qrcode) qrcodeandsyntax.js.
+- Fork this repository.
+- Clone the repository to your local machine.
+- Resolve the bugs, mentions provided in the Issues section of the repository. Also add a description of what changes you have done.
+- Add the changes to your repository.
+- Create a PULL Request. And that's all.
+- Please start the filename with the platform name on which the problem was solved. For example, if you are submitting JavaScript file syntax problem from qrcode then mention filename as (qrcode) qrcodeandsyntax.js.
 
 ## What you can contribute in this repo? 👊
-You can add your own competitive programming solutions.
-There are various topics like Functionality, Modal aspect of qrcode etc.
-You can contribute in them
-You can contribute some Learning Resources in the READme.md File.
-You can modify previous solutions if you feel like your solution has better Time or Space complexity.
+- You can add your own competitive programming solutions.
+- There are various topics like Functionality, Modal aspect of qrcode etc.
+- You can contribute in them
+- You can contribute some Learning Resources in the READme.md File.
+- You can modify previous solutions if you feel like your solution has better Time or Space complexity.
 Let's Contribute 😃#
 
 
@@ -68,7 +68,8 @@ QRcode App Javascript
 ## Contact 👋 
 
 If you want to contact me you can reach me at :
-LinkedIn:<a href="https://www.linkedin.com/in/alimi-oluwatunmise-563915225">@Oluwatunmise</a>
+LinkedIn:
+<a href="https://www.linkedin.com/in/alimi-oluwatunmise-563915225">@Oluwatunmise</a>
 
 
 
