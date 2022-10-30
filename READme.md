@@ -56,10 +56,9 @@ Clone or Download the repository using:
 ## What you can contribute in this repo? 👊
 - You can add your own competitive programming solutions.
 - There are various topics like Functionality, Modal aspect of qrcode etc.
-- You can contribute in them
 - You can contribute some Learning Resources in the READme.md File.
 - You can modify previous solutions if you feel like your solution has better Time or Space complexity.
-Let's Contribute 😃#
+   Let's Contribute 😃
 
 
 ## Keywords 🤌
