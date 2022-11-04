@@ -39,7 +39,7 @@ Clone or Download the repository using:
     <pre>git clone https://github.com/Dorcastunmise/qrcode-generator.git </pre>
 
 
-## Tools needed to carry out THE STORYBOOK successfully 🛠️
+## Tools needed to carry out QRCODE Generator successfully 🛠️
 1. Package managers: NPM, Yarn.
 
 2. API source : <a href="https://goqr.me/api/">QR code generator </a>
